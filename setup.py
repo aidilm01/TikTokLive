@@ -14,10 +14,10 @@ setuptools.setup(
     description="TikTok Live Connection Client",
     author="Isaac Kogan",
     author_email="info@isaackogan.com",
-    url="https://github.com/isaackogan/TikTokLive",
+    url="https://github.com/aidilm682/TikTokLive",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    download_url="https://github.com/isaackogan/TikTokLive/releases/tag/v4.5.1",
+    download_url="https://github.com/aidilm682/TikTokLive/releases/tag/v4.5.1",
     keywords=["tiktok", "tiktok live", "python3", "api", "unofficial"],
     install_requires=[
         "httpx>=0.23.0",  # Make requests
